@@ -7,7 +7,7 @@ description: Bring to the table win-win survival strategies to ensure proactive
   solution.
 date: 2021-03-10
 authors:
-  - huangyuzhang
+  - abrar-ajaz
 tags:
   - data
   - doc

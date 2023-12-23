@@ -1,9 +1,10 @@
-meta:
-  name: Fizzy
-  url: ""
+meta: 
+  name: Abrar Ajaz Wani
+  url: "https://www.abrarjaz.com/"
   description: Exploring exciting things.
-  icon: /favicon.ico
-  footerInfo: The voyage begins in London.
+  icon: /favicon.png
+  logo: /static/img/logo.png
+  footerInfo: Biz Osmanlıyız Pek Şanlıyız  (We're Ottomans, We're Glorious)
 post:
   showFeatureImage: true
   featureText: featured

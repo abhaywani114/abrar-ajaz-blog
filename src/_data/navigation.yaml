@@ -1,16 +1,16 @@
 navItems:
   - text: Home
     url: /
-  - text: Posts
-    url: /post/
+  # - text: Posts
+  #   url: /post/
   - text: Topics
     url: /tag/
-  - text: Authors
-    url: /author/
+  # - text: Authors
+  #   url: /author/
   - text: Archives
     url: /archives/
-  - text: About
+  - text: Who is Abrar Ajaz?
     url: /about/
 footerItems:
   - text: View on Github
-    url: https://github.com/huangyuzhang/fizzy-jam/
+    url: https://github.com/abhaywani114

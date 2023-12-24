@@ -9,7 +9,11 @@ navItems:
   #   url: /author/
   - text: Archives
     url: /archives/
-  - text: Who is Abrar Ajaz?
+  - text: Projects
+    url: /projects/
+  - text: Resume
+    url: /resume/
+  - text: About
     url: /about/
 footerItems:
   - text: View on Github

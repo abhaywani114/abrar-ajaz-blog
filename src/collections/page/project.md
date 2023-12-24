@@ -14,7 +14,9 @@ Join me on this exploration of technologies, methodologies, and the sheer joy of
 
 | Project Name              | Preview                |
 |----------------------------------|------------------------|
+| My Gateway Parking | [http://mygatewayparking.com/](http://mygatewayparking.com/) |
 | Property Reporting Services - Portal | [Version 1](https://www.prms.uk/portal/)   - [Version 2](https://app.prms.uk/) |
+| Your EV Finder | [https://www.yourevfinder.com/](https://www.yourevfinder.com/) |
 | Skodfissen Quiz | [https://skodfissen.dk/products/det-vi-taler-om-quizzen](https://skodfissen.dk/products/det-vi-taler-om-quizzen) |
 | Trending News Hub - Portal | [http://trendingnewshub.com/portal](http://trendingnewshub.com/portal) |
 | SSMMeme Generator (ReactJS) | [https://abhaywani114.github.io/ssm-meme-generator/](https://abhaywani114.github.io/ssm-meme-generator/) |

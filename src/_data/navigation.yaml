@@ -1,14 +1,12 @@
 navItems:
   - text: Home
     url: /
-  # - text: Posts
-  #   url: /post/
   - text: Topics
     url: /tag/
-  # - text: Authors
-  #   url: /author/
   - text: Archives
     url: /archives/
+  - text: Silsila
+    url: /silsila/
   - text: Projects
     url: /projects/
   - text: Resume

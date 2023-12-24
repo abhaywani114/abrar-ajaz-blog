@@ -4,8 +4,9 @@ path: about
 date: 2021-03-11
 image: /static/img/about.jpg
 layout: single-page
-toc: true
-comments: true
+description: Wani Abrar is an accomplished Full Stack Developer with a wealth of experience spanning over 5 years in the field of web development. Proficient in a diverse range of programming languages, frameworks, and database management, Wani has demonstrated expertise in both back-end and front-end development. 
+toc: false
+comments: false
 ---
 
 Abrar Ajaz Wani was born on the 25th of November 1999 in Sogam Lolab, a small village in the Kashmir Valley, in the Ju Wani family. He attended Army Goodwill School for schooling and later joined SSM College for Engineering. He pledged his allegiance (bayt) to Hazrat Sheykh Lokman Effendi, a saint in the Osmanli Naqashbandi Spiritual Order. Wani believes in taking a different path than the normal to become immortal.

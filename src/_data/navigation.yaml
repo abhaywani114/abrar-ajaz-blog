@@ -1,4 +1,6 @@
 navItems:
+  - text: Home
+    url: /
   - text: Topics
     url: /tag/
   - text: Silsila

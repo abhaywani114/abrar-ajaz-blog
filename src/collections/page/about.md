@@ -1,45 +1,29 @@
 ---
 title: About
 path: about
-date: 2021-03-11
+date: 2023-12-25
 image: /static/img/about.jpg
 layout: single-page
-description: Wani Abrar is an accomplished Full Stack Developer with a wealth of experience spanning over 5 years in the field of web development. Proficient in a diverse range of programming languages, frameworks, and database management, Wani has demonstrated expertise in both back-end and front-end development. 
+description: Abrar Ajaz a sufi, poet and a full Stack Developer with a wealth of experience spanning over 5 years in the field of web development. Proficient in a diverse range of programming languages, frameworks, and database management, Wani has demonstrated expertise in both back-end and front-end development. 
 toc: false
 comments: false
 ---
 
-Abrar Ajaz Wani was born on the 25th of November 1999 in Sogam Lolab, a small village in the Kashmir Valley, in the Ju Wani family. He attended Army Goodwill School for schooling and later joined SSM College for Engineering. He pledged his allegiance (bayt) to Hazrat Sheykh Lokman Effendi, a saint in the Osmanli Naqashbandi Spiritual Order. Wani believes in taking a different path than the normal to become immortal.
+BismillahirRahmanirRahim
+To me - I found it extremely difficult to define or introduce my own self. They say one who knows himself, knows His lord. It is very evident whatever we try to claim about our own selves is not reality but is a reflection of our ego. It's falsehood and is bound to perish. A year before we were something and now on comparing we're something else.
 
-He pursued computer science and conducted two pieces of research in the field, resulting in the invention of a keyboard called "Keyboard for Blind People" and "Auto Electricity Generator Modal." Wani received awards and international appreciation from scientists like Ajay Bhat of Intel, USA. He was titled as a Child Scientist in the 103rd International Science Congress held at the University of Mysore, Karnataka. Wani participated in the Child Science Congress session and exhibited his project KBP.
+But since I have decided to maintain a personal space over the internet (while learning JamStack). So for the same matter I owe here an introduction about myself.
 
-Wani learned Persian astrology during his schooling. His favorite poets include Ghalib of Urdu, whom he loves for his deep ideas of mysticism, and Mohsin Naqvi, whom he finds as an outstanding poetic idol. Wani's poems generally speak of Sufism and love. He has written praises for Prophet Muhammad AS, his Sheykh Effendi, and other saints as well.
+Not so special, I was born on 25th Of November 1997 in a small side valley of kashmir called Lolab's village [Sogam](https://en.wikipedia.org/wiki/Sogam_Lolab). I had my basic education from Army Goodwill School which was located in a remote village - Chandigam. Later for my higher education, I went to SSM College of Engineering and did my bachelor of engineering in Computer Science.
 
-## Achievements and Works
+By profession, I am an engineer who is trying to satisfy a thirst of curiosity and creativity. But what I am looking for is actually beyond the skies.
 
-### Poetry Collections:
-1. *Hasrat-e-Sehar* - Urdu Poetry collection (Not published yet)
-2. *Verses of Abrar* - English Poetry Collection (Still working)
+I discovered my passion for writing in my childhood. From Urdu to English and Kashmir, I have written a great length of poems. My poems often manifested love and belongingness as their central theme (for her, obviously!) . Some of my poems are available online but most of my works are unpublished; But by the right time I will get them out, inshAllah. In the world of poems, I was influenced by [Saghar Siddiqui](https://en.wikipedia.org/wiki/Saghar_Siddiqui) initially but then I explored [Mirza Ghalib's](https://en.wikipedia.org/wiki/Ghalib) epic divan and got lost in it. But nowadays, I am trying to understand [Hz Mevlana Rumi's](https://en.wikipedia.org/wiki/Rumi) Masnavi Shareef and Kashmir's poetry culture.
 
-### Awards for Research (During Schooling):
-1. Distt. level 2 awards
-2. Awards from SIE state Institute of Education
-3. Award by school for his work in science
-4. Award by KILO Forces Indian Army
+During my twenties, I found Sufism (Islamic spirituality and mysticism) very interesting. I was keenly researching the truth behind the meta-science from the Islamic point of view. Many modern muslims nowadays deny the spiritual aspect of Islam but as for Kashmir, we inherit Sufi tradition from [Shah e Hamdan (QS)](https://en.wikipedia.org/wiki/Mir_Sayyid_Ali_Hamadani) (A sufi saint who brought Islam to Kashmir from central Asia). Therefore, it was impossible for me to turn a blind eye and deny it completely. Ultimately my seeking led me to my master Sheykh Lokman Effendi (QS) and I embraced tariqat (sufism) once and for-all.
 
-### Appreciations for Research:
-1. Mr. Ajay Bhatt - Inventor of USB, Scientist at Intel, USA
+As from Sufic aspect, I am a disciple of his holiness Sheykh Lokman Effendi who is leading the Most Distinguished [Osmanli Nakshibendi Spiritual Order](https://www.naksibendi.us/). May Allah make it easy for all the seekers (including this humble weak creature) to find and be sincere in this way.
 
-### Science Exhibitions:
-1. District Level Science Fair 2013
-2. Northern India Science Fair State-Based, 2013
-3. Northern India Science Fair North India based, 2013
-4. District Level Exhibition under 42nd JNNSMEEC 2014
-5. 42nd JNNSMEEC Provincial based, 2015
-6. 42nd JNNSMEEC All India Based, 2015
-7. Child Science Congress session: India Science Congress, 2016
+As I am always interested in learning new cool things, during the vacations, I decided to learn JamStack. JamStack is a web development architecture pattern which is used to generate static websites. I always wanted to have my own website, so this time I thought to give it a shot while learning JamStack alongside ;-)
 
-
-## Contact
-
-Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.
+I will be writing about reflection, poems and commentary on this blog. Anyone who is interested can read and all the suggestions are welcomed!

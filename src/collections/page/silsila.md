@@ -1,13 +1,14 @@
 ---
 title: Osmanli Nakshibendi Order
 path: silsila
-date: 2021-03-11
+date: 2023-12-25
 image: /static/img/chain.jpg
 layout: single-page
 description: The silsila Spiritual order of the Most Distinguished of the Sufi Paths to Allah, The Great Osmanli Nakshibendi Order.
 toc: false
 comments: false
 ---
+BismillahirRahmanirRahim
 Silsila (**Spiritual Order**) is a Sufi's badge of identity and source of legitimation. It provides them with a list of illustrious predecessors and shows how they are related to other Sufis.  The literal meaning of the word "Silsila" is a chain which signifies a continuous link between master and disciple. This chain is stretched to the unbroken spiritual genealogy to the Prophet Muhammad AS. 
 
 Elhamdullah, I belong to the Most Distinguished of the Sufi Paths to Allah, The Great Osmanli Nakshibendi Order, who is lead by my master, Hz Sheykh Lokman Effendi QS. The chain of authority is written here below:
@@ -56,4 +57,11 @@ Elhamdullah, I belong to the Most Distinguished of the Sufi Paths to Allah, The 
 | 39.   | Seyh Abdullah Faiz ad-Daghestani (ق)   |
 | 40.   | Shah Sultan Mevlana Muhammad Nazim Adil al-Hakkani (ق) |
 | 41. | Sahibul Saif Sheykh AbdulKarim Al-Kibrisi (ق) |
-| 42. | **Sheykh Lokman Effendi** (ق)
+| 42. | **Sheykh Lokman Effendi** (ق)  |
+
+> The Naksibendis are the Masters of the Caravan,
+> Who guide to the Sacred House using the Secret Road.
+> All the Lions of the Universe are connected to this Silsila (Chain),
+> How could foxes ever tear us apart?
+> May Allah keep us with those Lions of the Universe. Amin
+> \- Mevlana Jami (ق), who was a Murid of Khwaja Ubaydullah Ahrar (ق)

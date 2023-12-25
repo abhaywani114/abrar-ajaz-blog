@@ -9,8 +9,8 @@ navItems:
     url: /projects/
   - text: Resume
     url: /resume/
-  - text: Archives
-    url: /archives/
+  # - text: Archives
+  #   url: /archives/
   - text: About
     url: /about/
   - text: Contact

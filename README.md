@@ -1,3 +1,7 @@
+# Deployment Status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6d7cc995-40f8-4788-8946-fc6d3067c6be/deploy-status)](https://app.netlify.com/sites/abrarajaz/deploys)
+
 # Fizzy Jam
 
 Fizzy Jam is an out-of-the-box jamstack web app practice.

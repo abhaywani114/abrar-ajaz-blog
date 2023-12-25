@@ -7,6 +7,8 @@ tags:
 authors:
   - abrar-ajaz
 isFeatured: true
+toc: false
+comments: false
 description: Explore the intriguing journey of solving a misplaced digit mystery in a credit card tracking ID with this programming tale. Discover O as a skilled Full Stack Developer leveraged programming prowess to tackle a unique challenge. Follow along as the narrative unfolds—from the excitement of credit card approval to the unexpected hurdle of a misplaced tracking ID digit.
 ---
 BismillahirRahmanirRahim

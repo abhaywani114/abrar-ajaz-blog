@@ -20,15 +20,19 @@ comments: false
 
 {# comments #}
 {% if comments %}
-<section class="section is-mobile-paddingless">
+<section class="section ">
     <div class="columns is-mobile" id="comments">
         <div class="column is-hidden-touch is-1-desktop is-1-widescreen is-2-fullhd"></div>
-        <div class="column is-12-tablet is-10-desktop is-10-widescreen is-8-fullhd">
-            <script src="https://giscus.app/client.js"
-                    data-theme="light"
-                    crossorigin="anonymous"
-                    async>
-            </script>
+        <div class="column is-12-tablet is-10-desktop is-10-widescreen is-8-fullhd card" style="background: #fff;padding-top: 25px;">
+            <div id="disqus_thread"></div>
+          <script>
+              (function() { // DON'T EDIT BELOW THIS LINE
+              var d = document, s = d.createElement('script');
+              s.src = 'https://abrar-ajaz.disqus.com/embed.js';
+              s.setAttribute('data-timestamp', +new Date());
+              (d.head || d.body).appendChild(s);
+              })();
+          </script>
         </div>
         <div class="column is-hidden-touch"></div>
         </div>

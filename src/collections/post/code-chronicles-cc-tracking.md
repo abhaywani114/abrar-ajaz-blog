@@ -6,7 +6,7 @@ authors:
   - abrar-ajaz
 image: /static/img/visa-credit-card-feature-compressed.jpg
 toc: false
-comments: false
+comments: true
 tags:
   - programming
 isFeatured: true

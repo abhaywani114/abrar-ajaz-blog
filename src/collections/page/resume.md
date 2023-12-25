@@ -5,6 +5,7 @@ image: /static/img/resume.jpg
 layout: single-page
 toc: false
 comments: false
+description: Experienced Full Stack Developer with over 5 years in web development. Bachelor of Engineering in Computer Science. Proficient in C, C++, PHP, JavaScript, TypeScript, Python. Skilled in Laravel, NodeJS, ReactJS, VueJS. Strong background in MySql, MongoDB, and Firebase. Currently a Front-End Engineer at Parmonic AI, contributing to AI widget development using HTML, CSS, Vue3, and TypeScript.
 ---
 Experienced Full Stack Developer with over 5 years of work experience in web development and a Bachelor of Engineering in Computer Science. Proficient in multiple programming languages, frameworks, and database management. Strong skills in UX design and ability to work both independently and collaboratively on projects, delivering high-quality results on time and within budget.
 

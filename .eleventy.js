@@ -40,6 +40,10 @@ module.exports = function (eleventyConfig) {
     }
   );
 
+  eleventyConfig.addFilter("location",   (l) => {
+    return `https://www.abrarajaz.com${l}`
+  })
+
   // human readable date
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("DD");

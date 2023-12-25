@@ -31,6 +31,21 @@
     
     {# description #}
     <meta name="description" content="{% if description %}{{description}}{% elif settings.meta.description %}{{settings.meta.description}}{% endif%}"/>
+    <meta property="twitter:card" content="summary_large_image">
+    {% if description %}
+      <meta property="twitter:description" content="{{ description }}">
+      <meta property="og:description" content="{{ description }}">
+    {% elif settings.meta.description %}
+      <meta property="twitter:description" content="{{ settings.meta.description }}">
+      <meta property="og:description" content="{{ settings.meta.description }}">
+    {% endif%}
+    
+    <meta property="og:url" content="{{ page.url | location }}">
+    {# featured image #}
+    {% if settings.post.showFeatureImage and image %}
+      <meta property="og:image" content="{{ image | location  }}">
+      <meta property="twitter:image" content="{{ image | location }}">
+    {% endif %}
 
     {# keywords #}
     {% if settings.seo.keywords %}<meta name="keywords" content="{{settings.seo.keywords}}"/>{% endif%}

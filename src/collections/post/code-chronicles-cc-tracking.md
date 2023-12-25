@@ -1,6 +1,6 @@
 ---
 title: "Code Chronicles: Unraveling the Credit Card Tracking Mystery"
-slug: code-chronicles-cc-tracking
+slug: code-chronicles-cc-tracking-1
 date: 2023-12-26
 authors:
   - abrar-ajaz

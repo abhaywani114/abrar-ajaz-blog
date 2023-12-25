@@ -2,14 +2,19 @@
 title: "Code Chronicles: Unraveling the Credit Card Tracking Mystery"
 slug: code-chronicles-cc-tracking
 date: 2023-12-26
-tags:
-  - programming
 authors:
   - abrar-ajaz
-isFeatured: true
+image: /static/img/credit-card.jpeg
 toc: false
 comments: false
-description: Explore the intriguing journey of solving a misplaced digit mystery in a credit card tracking ID with this programming tale. Discover O as a skilled Full Stack Developer leveraged programming prowess to tackle a unique challenge. Follow along as the narrative unfolds—from the excitement of credit card approval to the unexpected hurdle of a misplaced tracking ID digit.
+tags:
+  - programming
+isFeatured: true
+description: Explore the intriguing journey of solving a misplaced digit mystery
+  in a credit card tracking ID with this programming tale. Discover O as a
+  skilled Full Stack Developer leveraged programming prowess to tackle a unique
+  challenge. Follow along as the narrative unfolds—from the excitement of credit
+  card approval to the unexpected hurdle of a misplaced tracking ID digit.
 ---
 BismillahirRahmanirRahim
 Recently, I was approached by my bank saying that I was meeting all the requirements to have a credit card. Having a credit card is cool as it lets you build your CIBIL score and avail exciting offers available out there. So, I thought of giving it a shot and I applied for it.

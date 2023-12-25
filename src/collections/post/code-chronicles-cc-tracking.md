@@ -4,7 +4,7 @@ slug: code-chronicles-cc-tracking
 date: 2023-12-26
 authors:
   - abrar-ajaz
-image: /static/img/credit-card.jpeg
+image: /static/img/visa-credit-card-feature-compressed.jpg
 toc: false
 comments: false
 tags:

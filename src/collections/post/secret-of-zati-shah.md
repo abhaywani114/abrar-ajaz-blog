@@ -4,6 +4,8 @@ slug: secret-of-zati-shah
 date: 2024-01-05
 authors:
   - abrar-ajaz
+tags:
+  - sufi
 image: /static/img/img20210726191730_00.jpg
 isFeatured: false
 toc: true
@@ -17,6 +19,7 @@ description: After a dream about Zati Shah Wali QS, my heart was inspired about
   just like those dead fishes became alive and are still alive. Those who are
   thrown into ocean the are part of the ocean and the ocean is alive forever."
 ---
+BismillahiRahmaniRaheem
  Hz Zati Shah Wali also Known as "Shah Wali" is one of King size awliaAllah of Kashmir. He lived during the 16th century. His Shrine is located in the district of Kupwara Dragmullah village. His resting place is called Muqaam e ShahWali. Before becoming a saint he was serving in the Kashmir's Army as a commander. But after an incident, he gave his hand to Sheykh Hamza Maqdoomi (also known as Sultaan ul Arifeen).
 
 After a dream about Zati Shah Wali QS, my heart was inspired about the wisdom behind Shah Wali's karamat - "The dry dead fishes that Zati Shahwali QS throws in the spring resembled our dead hearts. And the spiring resembled the ocean of Zati Shah which is connected with the divine ocean. Hz Zati Shah Wali QS wanted to convey that  Awlia Allah took the dead hearts of their mureeds and threw them into the divine ocean. So then they are no longer dead. Because the divine ocean has the quality to make them alive, just like those dead fishes became alive and are still alive. Those who are thrown into ocean the are part of the ocean and the ocean is alive forever."
@@ -164,3 +167,10 @@ They will set you free,
 Don't rely on your knowledge,
 Burn all your books,
 And start a live book.
+
+`Footnote:`
+
+* Prophet Ibrahim AS
+* Hz Zati Shah-Wali QS
+* Sheykh Hamzah (Maqdoom Sb) QS
+* Prophet Muhammad AS

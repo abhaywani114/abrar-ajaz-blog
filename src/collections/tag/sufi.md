@@ -1,5 +1,5 @@
 ---
-name: Sufi - The Islamic mysticism and spirituality
+name: Tasawwuf (Sufism)
 slug: sufi
 seoTitle: Sufi
 image: /static/img/sufi-al-qubrusi.jpg

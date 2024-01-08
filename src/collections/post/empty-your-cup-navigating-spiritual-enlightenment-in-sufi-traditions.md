@@ -16,7 +16,7 @@ description: Unlock the wisdom of 'empty your cup' in Sufi traditions. Delve
   emptying your cup.
 ---
 BismillahiRahmaniRaheem
-“Empty your cup” is one of the greatest pieces of advice I have heard from my master Hz Sheykh Lokman Effendi. From our insensibility, we may think it’s not that big a deal to empty one's cup, but in reality, this advice is deeply rooted in Islamic Sufi traditions that it is nearly impossible to find any Sufi master who hasn’t stressed emptying the cup upon seekers of the way.
+“Empty your cup” is one of the greatest pieces of advice I have heard from my master Hz Sheykh Lokman Effendi. From our insensibility, we may think it’s not that a big deal to empty one's cup, but in reality, this advice is deeply rooted in Islamic Sufi traditions that it is nearly impossible to find any Sufi master who hasn’t stressed emptying the cup upon seekers of the way.
 
 One of the greatest friends of Allah, Hazrat Mevlana Rumi QS begins his Masnavi Shareef (Poetry Collection) with the “Ney '' as the subject. Why did he choose “Ney '' as the first topic of his Masnavi? Because ney is a hollow musical instrument and upon blowing a breath into it, it starts to play amazing musical notes. So in reality the ney symbolises Mevlana Rumi QS himself. As he is someone who has attained perfection in the way of truth, therefore, he became hollow and empty from the inside - i.e. free of his ego and worldly attachments. And then he is able to play those melodious notes in the form of Masnavi that the whole world is drunk with. In reality, the idea of the ney is to tell the seeker that you have to empty your cup and be free to return to Allah.
 

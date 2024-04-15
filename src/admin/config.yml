@@ -118,7 +118,31 @@ collections:
       - { label: "Table of Content", name: "toc", widget: "boolean", default: true, required: false }
       - { label: "Description", name: "description", widget: "text", hint: "Short Summary", required: false } # text: multi-line text block
       - { label: "Content", name: "body", widget: "markdown", modes: ["raw","rich_text"] }
-
+ 
+  - label: "Grallery"
+    label_singular: "grallery"
+    name: "grallery"
+    folder: "src/collections/grallery"
+    slug: "{{grallery}}"
+    description: >-
+      Use pages to customize grallery.
+    summary: "{{title}} | {{path}}"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: "Caption", name: "caption", widget: "string" }
+      - label: "Path"
+        name: "path"
+        widget: "string"
+        pattern: ["^[a-z0-9]+(?:[._-][a-z0-9]+)*$","A slug can have no spaces or special characters"]
+        hint: >-
+          Used in permalink "/{{ path }}/ and navigation url, e.g.: "image".
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        required: false
+        tagname: ""
   # Pages (folder collection)
   - label: "Pages"
     label_singular: "page"

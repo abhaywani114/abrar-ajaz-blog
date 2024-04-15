@@ -1,0 +1,5 @@
+layout: single-page
+path: grallery
+permalink: '/{{ path }}/'
+tags:
+  - grallery

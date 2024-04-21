@@ -132,6 +132,12 @@ collections:
       preview: false
     fields:
       - { label: "Caption", name: "caption", widget: "string" }
+      - label: "Path"
+        name: "path"
+        widget: "string"
+        pattern: ["^[a-z0-9]+(?:[._-][a-z0-9]+)*$","A slug can have no spaces or special characters"]
+        hint: >-
+          Used in permalink "/{{ path }}/ and navigation url, e.g.: "about".
       - label: "Image"
         name: "image"
         widget: "image"

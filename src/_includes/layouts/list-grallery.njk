@@ -1,0 +1,31 @@
+---
+layout: default
+title: Post List
+---
+{# grallery list #}
+<link href="https://unpkg.com/lightgallery@2.7.2/css/lightgallery-bundle.css" rel="stylesheet" />
+<main class="section">
+    <div class="columns">
+      <div class="column is-hidden-touch is-1-desktop is-1-widescreen is-2-fullhd"></div>
+      <div class="column is-12-tablet is-10-desktop is-10-widescreen is-8-fullhd">
+          <div id="animated-thumbnails">
+            {% for image in collections.grallery | reverse %}
+              <a href="{{ image.data.image  }}"  
+                data-sub-html="<div class='lightGallery-captions'><h4>{{ image.data.caption  }}</h4></div>" >
+                  <img src="{{ image.data.image  }}" />
+              </a>
+            {% endfor %}
+          </div>
+      </div>
+      <div class="column is-hidden-touch"></div>
+    </div>
+</main>
+
+<script src="https://unpkg.com/lightgallery@2.7.2/lightgallery.min.js"></script>
+<script>
+lightGallery(document.getElementById('animated-thumbnails'), {
+    thumbnail: true,
+    appendSubHtmlTo: '.lg-item',
+    licenseKey: "0000-0000-000-0001"
+});
+</script>

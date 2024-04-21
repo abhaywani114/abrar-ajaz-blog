@@ -4,15 +4,34 @@ title: Grallery
 ---
 {# grallery list #}
 <link href="https://unpkg.com/lightgallery@2.7.2/css/lightgallery-bundle.css" rel="stylesheet" />
+<style>
+.grallery-container {
+   display: grid;
+   grid-gap: 10px;
+   grid-template-columns: repeat(auto-fill, minmax(250px,1fr));
+   overflow: hidden;
+   grid-auto-rows:300px;
+   grid-row-gap: 30px;
+}
+
+.grallery-container >a  {
+  display: block;
+  margin-top: 10px;
+}
+.grallery-image {
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+</style>
 <main class="section">
     <div class="columns">
       <div class="column is-hidden-touch is-1-desktop is-1-widescreen is-2-fullhd"></div>
       <div class="column is-12-tablet is-10-desktop is-10-widescreen is-8-fullhd">
-          <div id="animated-thumbnails">
+          <div id="animated-thumbnails" class="grallery-container grid">
             {% for image in collections.grallery | reverse %}
-              <a href="{{ image.data.image  }}"  
+              <a href="{{ image.data.image  }}" class="item"
                 data-sub-html="<div class='lightGallery-captions'><h4>{{ image.data.caption  }}</h4></div>" >
-                  <img src="{{ image.data.image  }}" />
+                  <img src="{{ image.data.image  }}" class="grallery-image" />
               </a>
             {% endfor %}
           </div>

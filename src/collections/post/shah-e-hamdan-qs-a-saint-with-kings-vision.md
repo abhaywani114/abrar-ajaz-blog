@@ -21,7 +21,7 @@ description: Today marks the Urs of Mir Sayyid Ali Hamdani, revered as
   disciple Sheykh Maulana Malik Ibrahim becoming a key figure in spreading Islam
   in Southeast Asia. Despite facing opposition, notably from the
   Wahabi-Deobandis, Shah-i-Hamdan’s Awrad e Fatiha, a collection of prayers from
-  1300 saints, remains a cherished spiritual practice among Kashmiris. His
+  1400 saints, remains a cherished spiritual practice among Kashmiris. His
   legacy, steeped in the principles of Ahl e Sunnat Wal Jamat, defended the
   authentic traditions of Islam, and his enduring spiritual presence continues
   to guide and inspire. A testament to his profound impact, a traditional
@@ -39,7 +39,7 @@ Shah e Hamdan QS didn't only spread Islam in Kashmir, but he also sent his stude
 
 Shah e Hamdan QS was a contemporary of Shah e Naqashband QS and King Timur. In common folks, it's said Shah e Hamdan and King Timur had a bad relationship. Timur who is seen as an oppressor was not liked by Shah e Hamdan QS and at various points when Timur was coming heavy on Ahl e Bayt, Ali Sani QS confronted him. But when I traveled to the Bhukhara Shareef with Sheykh Effendi, I learned that Timur was a mureed of and supported by Shah e Naqashband and he respected Awliyas and built several shrines for them. As such there is no such strong evidence suggesting so and so.
 
-Shah e Hamdan QS authored many books including the famous Awrad E Fatiha, Zakhirat ul-Muluk, Chehl Asraar (Forty Secrets), etc. It is said the Awrad E Fatiha was collected from 1300 Awliyas during his travel and later it was compiled into a book. Shah E Hamdan QS gave common permission to the people of Kashmir to recite it daily as Wazifa to make spiritual progress. The people of Kashmir have held Awrad Fatiha close to their hearts for centuries but the oppressors of the 20th and 21st centuries, the Wahabi-Deobandis, ran a heavy campaign against it and tried to prove its evil innovation and refined people from reading it. There has been a significant decline in reciting the Awrad e Fatiha and thus people of Kashmir have forgotten and are forgetting their Imam's tarbiyat.
+Shah e Hamdan QS authored many books including the famous Awrad E Fatiha, Zakhirat ul-Muluk, Chehl Asraar (Forty Secrets), etc. It is said the Awrad E Fatiha was collected from 1400 Awliyas during his travel and later it was compiled into a book. Shah E Hamdan QS gave common permission to the people of Kashmir to recite it daily as Wazifa to make spiritual progress. The people of Kashmir have held Awrad Fatiha close to their hearts for centuries but the oppressors of the 20th and 21st centuries, the Wahabi-Deobandis, ran a heavy campaign against it and tried to prove its evil innovation and refined people from reading it. There has been a significant decline in reciting the Awrad e Fatiha and thus people of Kashmir have forgotten and are forgetting their Imam's tarbiyat.
 
 One of the incidents about Award e Fatiha that I would like to note here is of a Kashmiri deobandi scholar Adil Siddiqui. He in his speech said openly that people have mutated the Awrad e Fatiha and added shirkiya words into it. Thus forbidding people from reading it. Later when other scholars confronted him and asked to show those sentences that had been added, he couldn't. He asked for forgiveness but the damage was already done. May Allah save us from such scholars. These kinds of scholars are open enemies of Islam and will be given a great punishment in the divine court. 
 

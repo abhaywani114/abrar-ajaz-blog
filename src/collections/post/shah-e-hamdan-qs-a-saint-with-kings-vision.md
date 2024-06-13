@@ -51,35 +51,86 @@ Shah e Hamdan QS was a flag bearer of Alh e Sunnat Wal Jamat and he taught the t
 
 The people of Kashmir practiced the real Islam for centuries which was brought by Shah Hamdan QS without any deviance. From the teachings of Shah E Hamdan QS people used to believe in saints and intersession of holy ones as it is the basic aqida of Ahl e Sunnat wal jamaat. The Prophet AS has said: “Ask for your needs from the people of my ummah who are merciful. You will find sustenance and your wishes will be fulfilled.” \[Al-`Uqaili and Tabrāni in al-Awsat]. Kashmiris holding tightly to the traditions - thus the famous poem in Kashmiri-Persian reads:
 
-`Ay Badshah e ba hasham,
+`Ay Badshah e ba hasham,`
+
+`
 Ya Shah e hamdan Al madd,`
 
-`Mehboob i haq ul  haq tuhe
-Noor e nabi bar haq tuhe,
-Bar awlia roonak tuhe
+``
+
+`Mehboob i haq ul  haq tuhe`
+
+`
+Noor e nabi bar haq tuhe,`
+
+`
+Bar awlia roonak tuhe`
+
+`
 Ya Shah e hamdan Al madd,`
 
-`Islam rehbani tuhe,
-Bani musalmani tuhe,
-By shaq Ali Sani tuhe
+``
+
+``
+
+`Islam rehbani tuhe,`
+
+`
+Bani musalmani tuhe,`
+
+`
+By shaq Ali Sani tuhe`
+
+`
 Ya Shah e hamdan Al madd.`
 
-`Hamdan faryaadi emy,
-Az soz e dil nada demy,
-Vuin demy padan pemy,
+``
+
+`Hamdan faryaadi emy,`
+
+`
+Az soz e dil nada demy,`
+
+`
+Vuin demy padan pemy,`
+
+`
 Ya Shah e hamdan Al madd.`
 
-`Bartal che aamth es gadda,
-Kecha deyu rah e khuda,
-Chu dun jahanan-hind badsha
+``
+
+`Bartal che aamth es gadda,`
+
+`
+Kecha deyu rah e khuda,`
+
+`
+Chu dun jahanan-hind badsha`
+
+`
 Ya Shah e hamdan Al madd.`
 
-`Deenas kru yeeri setha,
-Nabiyan che kurny marhaba,
-Ye gov 'tu izzo mantasha'
-Ya Shah e hamdan Al madd.`
+``
 
-`Kashmir rah abadaad kun,
-Az dard o gum azaad kun,
-Bahar e khuda dil shad kun,
+`Deenas kru yeeri setha,`
+
+`
+Nabiyan che kurny marhaba,`
+
+`
+Ye gov 'tu izzo mantasha'`
+
+`Ya Shah e hamdan Al madd.`
+
+``
+
+`Kashmir rah abadaad kun,`
+
+`
+Az dard o gum azaad kun,`
+
+`
+Bahar e khuda dil shad kun,`
+
+`
 Ya Shah e hamdan Al madd.`

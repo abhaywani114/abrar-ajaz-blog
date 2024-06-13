@@ -31,7 +31,7 @@ description: Today marks the Urs of Mir Sayyid Ali Hamdani, revered as
 Bismillahirrahmanirrahim
 Today marks the urs of Mir Sayyid Ali Hamdani (aka Imam e Kashmir Shah-i-Hamdan) QS. He was a prince born in the ruling family of Hamdan, but he chose the way of zuhud and left everything for the sake of Haq. 
 
-Initially, his holiness acquired the knowledge of Shariyat and later became a disciple of Ala ud-Daula Simnani QS. From Ala ud Daula QS he received spiritual training in Silsila e Kubrawiya and was bestowed authority in it.
+Initially, his holiness acquired the knowledge of Shariyat and was a disciple of Ala ud-Daula Simnani QS during his teenage. Later he was guided to Sheykh Mehmood Muzdagani QS were he received spiritual training in Silsila e Kubrawiya and was bestowed authority in it.
 
 He was commanded by Prophet AS to travel to Kashmir to spread the light of Islam in this region. In the historical records, he traveled three times to this region. He established the khankahs (Sufi lounges) at the heart of Srinagar and Ladakh to train people in both Shariyat and Tarikat. A saint with a king's vision, he brought various crafts and industries from Iran which had a deep positive impact on Kashmir's economy and culture. After his third visit to Kashmir, he left intending to make a pilgrimage to Mecca but on the way, he veiled (passed away). By his will, his mubarak body was taken to Tajikistan and was buried there.
 

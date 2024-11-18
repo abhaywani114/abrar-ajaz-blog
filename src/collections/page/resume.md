@@ -30,6 +30,8 @@ Experienced Full Stack Developer with over 5 years of work experience in web dev
 ##### **Projects/Experience**
 - **Front-End Engineer at Parmonic AI, Atlanta, Gorgia US** (March 2023- Currently): Job involves devloping/maintaing the AI widget and developing landing pages for customers to host the AI widget.
 
+- **Full Stack Web Developer at Premier Roofing, Sidney, NY, USA** (April 2024 - Nov 2024): Developed a comprehensive CRM system to track the entire customer journey, from initial phone call inquiries to job completion. Collaborated closely with the Project Manager to gather requirements, design system architecture, and ensure alignment with business objectives, delivering a scalable and efficient solution.
+
 - **Full Stack Web Developer at Property Reporting Services, 35 Firs Avenue UK** (Feb 2023):  Build a job ticketing system in laravel and also maintaining their servers.
 
 - **Wordpress Developer at Next Level Roofing, New York, US** (Dec 2022 - Dec 2022):  Developed a single page website using elementor for a roofing service company.

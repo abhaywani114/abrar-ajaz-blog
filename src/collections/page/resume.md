@@ -20,15 +20,19 @@ Experienced Full Stack Developer with over 5 years of work experience in web dev
 - **Kindergarden to 12th** from **Army Goodwill School, Chandigam** (2004-2017)
 
 ##### **Skills**
-- **Programming languages**: C, C++, PHP, Javascript, TypeScript, Python, BASIC,
-- **Back-end frameworks:** Laravel, NodeJS, ExpresJS, MongooseDB,
+- **Programming languages:** JavaScript, TypeScript, Java, Python, C, C++, PHP, BASIC. 
+- **Back-end frameworks:** Spring Boot, NodeJS, NestJS, ExpressJS, Laravel.
 - **Front-end frameworks:** ReactJS, VueJS, Bootstrap, Tailwind, JQuery.
 - **Database:** MySql, MongoDB, Firebase
-- **Management:** Git, SVN, GitHub, Bash, Monday.com, Linux/Unix
-- **Misc:** NextJs, Wordpress, Elementor, UX Design, Figma, Canva, CURL, Browser extensions
+- **Management:** Git, Docker, SVN, GitHub, Bash, Monday.com, Linux/Unix
+- **Misc:** Amazon Web Services, NextJs, WordPress, Figma, Canva, CURL, Browser extensions, Notion 
 
 ##### **Projects/Experience**
 - **Front-End Engineer at Parmonic AI, Atlanta, Gorgia US** (March 2023- Currently): Job involves devloping/maintaing the AI widget and developing landing pages for customers to host the AI widget.
+
+- **Full Stack Web Developer at Cleartek Systems, Sidney, NY, USA** (Dec 2023- Mar 2025):  Developed a commercial property search engine with advanced filtering (location, range, size, type) and AI-powered voice search capabilities.
+
+- **Full Stack Web Developer at Premier Roofing, Sidney, NY, USA** (April 2024 - Dec 2024): Developed a comprehensive CRM system to track the entire customer journey, from initial phone call inquiries to job completion. Collaborated closely with the Project Manager to gather requirements, design system architecture, and ensure alignment with business objectives, delivering a scalable and efficient solution.
 
 - **Full Stack Web Developer at Property Reporting Services, 35 Firs Avenue UK** (Feb 2023):  Build a job ticketing system in laravel and also maintaining their servers.
 

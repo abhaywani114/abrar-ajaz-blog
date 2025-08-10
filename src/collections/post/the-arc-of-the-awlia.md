@@ -4,10 +4,10 @@ slug: the-arc-of-the-awlia
 date: 2025-08-11
 authors:
   - abrar-ajaz
-image: /static/img/chatgpt_image_aug_11_2025_01_15_21_am.png
+image: /static/img/photo_2025-08-11_01-18-59.jpg
 isFeatured: false
 toc: true
-description: >+
+description: >
   The Throne of Friendship with Allah is a meditation on the timeless bond
   between the Creator and His chosen friends—the Awliya Allah—those whose hearts
   have been polished into mirrors reflecting only His Light. It calls the reader

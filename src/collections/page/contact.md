@@ -2,9 +2,9 @@
 title: Contact Us
 path: contact
 date: 2021-03-11
-image: /static/img/contact.jpg
-description: Contact Abrar Ajz wani for collaboration, opportunities, or just to say hello.
+image: /static/img/abrar-edit.jpg
 layout: single-page
+description: Contact Abrar Ajz wani for collaboration, opportunities, or just to say hello.
 toc: false
 comments: false
 ---

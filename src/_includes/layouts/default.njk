@@ -43,9 +43,8 @@
     <meta property="og:url" content="{{ page.url | location }}">
     {# featured image #}
     {% if settings.post.showFeatureImage and image %}
-      {% set cleanImage = (image | location) | replace('://www.', '://') | replace('//www.', '//') %}
-      <meta property="og:image" content="{{ cleanImage }}">
-      <meta property="twitter:image" content="{{ cleanImage }}">
+      <meta property="og:image" content="{{ image | location  }}">
+      <meta property="twitter:image" content="{{ image | location }}">
     {% endif %}
 
     {# keywords #}

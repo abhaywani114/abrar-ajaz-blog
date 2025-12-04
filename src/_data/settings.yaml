@@ -1,7 +1,14 @@
-meta: 
+meta:
   name: Abrar Ajaz Wani
-  url: "https://www.abrarjaz.com/"
-  description: Dive into the intersection of spirituality, creativity, and code at Abrar Ajaz's daily blog. Uncover the reflection of Sufism, immerse yourself in the beauty of poetry, and explore the world of programming through the lens of an experienced Full Stack Developer. Join a journey where insightful thoughts on various topics converge, offering a unique blend of introspection, artistic expression, and technical expertise. Your daily source of inspiration awaits at the crossroads of spirituality, poetry, and programming.
+  url: https://abrarjaz.com/
+  description: Dive into the intersection of spirituality, creativity, and code at
+    Abrar Ajaz's daily blog. Uncover the reflection of Sufism, immerse yourself
+    in the beauty of poetry, and explore the world of programming through the
+    lens of an experienced Full Stack Developer. Join a journey where insightful
+    thoughts on various topics converge, offering a unique blend of
+    introspection, artistic expression, and technical expertise. Your daily
+    source of inspiration awaits at the crossroads of spirituality, poetry, and
+    programming.
   icon: /favicon.png
   logo: /static/img/logo.png
   footerInfo: Biz Osmanlıyız Pek Şanlıyız  (We're Ottomans, We're Glorious)
@@ -11,9 +18,6 @@ post:
 seo:
   title: Abrar Ajaz
   keywords: Web devloper, computer engineer, Sufi, poet, ottoman
-# appearance:
-#   mainColor: "#C668B9"
-#   linkHoverColor: "#C668B9"
 component:
   navSearch: true
   authorBox: true
